@@ -1,0 +1,2 @@
+# Freedomoticlab
+Freedomotic plugin development
